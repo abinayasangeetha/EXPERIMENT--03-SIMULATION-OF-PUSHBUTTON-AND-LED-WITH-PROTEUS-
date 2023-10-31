@@ -25,7 +25,7 @@ interfaces Datasheet - production data Features
 
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
-<img src="https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088" height="450" width="450">
+<img src=https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088 height="450" width="450">
 
  2. click on FILE, click on new stm 32 project 
 <img src="https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3" height="450" width="450">
